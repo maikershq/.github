@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/maikershq/branding/main/logo/logo.png" width="150"/>
+    <img src="https://raw.githubusercontent.com/maikershq/branding/main/logo/logo-nobg-text-white.png" width="150"/>
 </div>
 
 <br/>
