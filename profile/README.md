@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/MaikersHQ/branding/blob/main/logo/maikers-logo.png" width="150"/>
+    <img src="https://raw.githubusercontent.com/maikershq/branding/main/logo/logo.png" width="150"/>
 </div>
 
 <br/>
